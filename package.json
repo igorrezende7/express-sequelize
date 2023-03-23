@@ -17,5 +17,8 @@
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.29.3",
     "sequelize-cli": "^6.6.0"
+  },
+  "devDependencies": {
+    "sucrase": "^3.30.0"
   }
 }
